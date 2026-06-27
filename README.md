@@ -47,7 +47,7 @@ class Alexis:
 
 ---
 
-## 〉Skills & Tools
+## Skills & Tools
 
 <div align="center">
 
@@ -65,7 +65,9 @@ class Alexis:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
 
 </div>
+
 ## GitHub Stats
+
 
 
 <div align="center">
