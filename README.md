@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <h2>Alexis Huamán Flores</h2>
+  <h2>KouseiDM</h2>
   <p> 13/10</p>
   <p>— Hesitation is defeat —</p>
 </div>
@@ -31,7 +31,6 @@ class Alexis:
 - 🎓 Estudiante de **Ingeniería de Sistemas de la Información** en UPC
 - ☁️ Aprendiendo **Cloud Computing** con AWS y arquitecturas escalables
 - 🔐 Interesado en **Ciberseguridad** — criptografía, redes y sistemas
-- 🎮 Gamer en mis tiempos libres
 - 🤝 Abierto a colaborar en proyectos de sistemas, seguridad o cloud
 
 ---
@@ -67,21 +66,33 @@ class Alexis:
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Design & Others**
+**Security**
 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+**Version Control**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Methodologies & Tools**
+
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-F96A00?style=for-the-badge&logo=lucidchart&logoColor=white)
 
 ---
 
 ## 〉GitHub Stats
+## 〉GitHub Stats
 
 <div align="center">
 
-![kouseidm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kouseidm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+<img src="https://github-readme-stats.vercel.app/api?username=kouseidm&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b8b8b&icon_color=8b8b8b&text_color=6e6e6e" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouseidm&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b8b8b&text_color=6e6e6e" height="150"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kouseidm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kouseidm&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
 
@@ -90,7 +101,7 @@ class Alexis:
 ## 〉Featured Project
 
 ### 🔐 RSA Encryption App
-> Implementación de cifrado RSA desde cero en Python con interfaz gráfica (Tkinter).
+> Implementación de cifrado RSA desde cero en Python con interfaz gráfica.
 > Encriptación carácter a carácter usando ASCII, codificación Base64 y validación de claves.
 
 [![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kouseidm)
@@ -99,8 +110,6 @@ class Alexis:
 
 <div align="center">
 
-*"The quieter you become, the more you can hear the system."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=kouseidm&color=58a6ff&style=flat-square&label=Profile+Views)
+*"It is the end."*
 
 </div>
