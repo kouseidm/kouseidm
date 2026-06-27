@@ -16,7 +16,7 @@
  
 ---
 
-## 〉About Me
+## About Me
 
 ```python
 class Alexis:
@@ -35,7 +35,7 @@ class Alexis:
 
 ---
 
-## 〉Connect
+## Connect
 
 <div align="center">
 
@@ -46,7 +46,7 @@ class Alexis:
 
 ---
 
-## 〉Skills & Tools
+## Skills & Tools
 
 **Languages**
 
@@ -79,7 +79,7 @@ class Alexis:
 
 ---
 
-## 〉GitHub Stats
+## GitHub Stats
 
 
 <div align="center">
@@ -92,13 +92,13 @@ class Alexis:
 
 ---
 
-## 〉Featured Project
+## Featured Project
 
 ### 🔐 RSA Encryption App
 > Implementación de cifrado RSA desde cero en Python con interfaz gráfica.
 > Encriptación carácter a carácter usando ASCII, codificación Base64 y validación de claves.
 
-[![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kouseidm)
+[![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kouseidm/RSA---Encriptacion)
 
 ---
 
