@@ -6,7 +6,11 @@
 </div>
 
 
-### *— Hesitation is defeat —*
+<div align="center">
+  <h2>Alexis Huamán Flores</h2>
+  <p> 13/10</p>
+  <p>— Hesitation is defeat —</p>
+</div>
 
 </div>
  
