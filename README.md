@@ -86,7 +86,7 @@ class Alexis:
 ---
 
 ## 〉GitHub Stats
-## 〉GitHub Stats
+
 
 <div align="center">
 
