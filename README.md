@@ -2,7 +2,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="./assets/banner.png" width="100%" alt="banner"/>
+  <img src="./assets/banner.jpg" width="100%" alt="banner"/>
 </div>
 
 
