@@ -25,7 +25,7 @@ class Alexis:
     university = "UPC — Ingeniería de Sistemas de la Información"
     location   = "Lima, Perú "
     interests  = ["Cloud Computing", "Ciberseguridad", "Música", "Videojuegos"]
-    current    = "Aprendiendo AWS · Explorando Ciberseguridad"
+    current    = "Cybersecurity"
 ```
 
 - 🎓 Estudiante de **Ingeniería de Sistemas de la Información** en UPC
